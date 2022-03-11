@@ -2,11 +2,7 @@
 
 ## 1. 逻辑导图
 
-
-
-
-
-<img src="C:\Users\wangzhen\AppData\Roaming\Typora\typora-user-images\image-20220311124239242.png" alt="image-20220311124239242" style="zoom:33%;" />
+![](./src/逻辑图.png)
 
 ## 2. 代码实现
 
@@ -207,6 +203,7 @@ void FindMine(char mine[ROWS][COLS], char show[ROWS][COLS], int row, int col)
 
 ## 3. 运行效果
 
-![image-20220311135326384](C:\Users\wangzhen\AppData\Roaming\Typora\typora-user-images\image-20220311135326384.png)
+![](./src/运行图1.png)
 
-![image-20220311135523618](C:\Users\wangzhen\AppData\Roaming\Typora\typora-user-images\image-20220311135523618.png)
+![](./src/运行图2.png)
+
